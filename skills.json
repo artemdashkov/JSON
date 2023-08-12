@@ -1,0 +1,30 @@
+{
+	"testing_theory":{
+				1:"Test Design",
+				2:"Severity vs Priority",
+				3:"Other"
+	},
+
+	"test_documentation":{
+				1: "Bug reports",
+				2: "Test_cases",
+				3: "Check Lists",
+				4: "Test Plans"
+	},
+
+	"programming_languages":{
+				1: "SQL",
+				2: "JavaScript",
+				3: "Python"
+	},
+
+	"web_testing":{
+				1: "Postman",
+				2: "Jenkins",
+				3: "DevTools",
+				4: "Jmeter",
+				5: "Docker"
+	}
+
+
+}
